@@ -1,0 +1,27 @@
+#home {
+    background-color: #8707ff;
+    color: white;
+}
+
+.upheader {
+    background-color: #8707ff;
+    color: white;
+}
+
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: black;
+    color: white;
+}
+
+#conter2 {
+    background-color: #8707ff;
+    color: white;
+}
+
+footer p a {
+    margin: 5px 15px;
+    text-decoration: none;
+}
